@@ -1,0 +1,12 @@
+version: '3.8'
+services:
+  exoid-verification-ui:
+    container_name: exoid-verification-ui
+    ports:
+      - 3003:3003
+    build:
+      context: .
+      dockerfile: Dockerfile
+    # volumes:
+    #   - /app/logs:/usr/app/logs
+
