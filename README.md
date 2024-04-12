@@ -1,1 +1,1 @@
-# Backend System for VC-Issuer of Exoid Wallet
+# Backend System for zkProof Request Issuer of Exoid Wallet
